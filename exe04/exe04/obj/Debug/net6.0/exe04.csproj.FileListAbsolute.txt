@@ -1,0 +1,14 @@
+C:\Users\Paulo\Desktop\Lista12exe\4°exercicio\exe04\exe04\bin\Debug\net6.0\exe04.exe
+C:\Users\Paulo\Desktop\Lista12exe\4°exercicio\exe04\exe04\bin\Debug\net6.0\exe04.deps.json
+C:\Users\Paulo\Desktop\Lista12exe\4°exercicio\exe04\exe04\bin\Debug\net6.0\exe04.runtimeconfig.json
+C:\Users\Paulo\Desktop\Lista12exe\4°exercicio\exe04\exe04\bin\Debug\net6.0\exe04.dll
+C:\Users\Paulo\Desktop\Lista12exe\4°exercicio\exe04\exe04\bin\Debug\net6.0\exe04.pdb
+C:\Users\Paulo\Desktop\Lista12exe\4°exercicio\exe04\exe04\obj\Debug\net6.0\exe04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Desktop\Lista12exe\4°exercicio\exe04\exe04\obj\Debug\net6.0\exe04.AssemblyInfoInputs.cache
+C:\Users\Paulo\Desktop\Lista12exe\4°exercicio\exe04\exe04\obj\Debug\net6.0\exe04.AssemblyInfo.cs
+C:\Users\Paulo\Desktop\Lista12exe\4°exercicio\exe04\exe04\obj\Debug\net6.0\exe04.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\Lista12exe\4°exercicio\exe04\exe04\obj\Debug\net6.0\exe04.dll
+C:\Users\Paulo\Desktop\Lista12exe\4°exercicio\exe04\exe04\obj\Debug\net6.0\refint\exe04.dll
+C:\Users\Paulo\Desktop\Lista12exe\4°exercicio\exe04\exe04\obj\Debug\net6.0\exe04.pdb
+C:\Users\Paulo\Desktop\Lista12exe\4°exercicio\exe04\exe04\obj\Debug\net6.0\exe04.genruntimeconfig.cache
+C:\Users\Paulo\Desktop\Lista12exe\4°exercicio\exe04\exe04\obj\Debug\net6.0\ref\exe04.dll
