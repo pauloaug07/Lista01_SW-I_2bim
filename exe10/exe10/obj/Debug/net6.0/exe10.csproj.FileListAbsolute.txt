@@ -1,0 +1,14 @@
+C:\Users\Paulo\Desktop\Lista12exe\10°exercicio\exe10\exe10\bin\Debug\net6.0\exe10.exe
+C:\Users\Paulo\Desktop\Lista12exe\10°exercicio\exe10\exe10\bin\Debug\net6.0\exe10.deps.json
+C:\Users\Paulo\Desktop\Lista12exe\10°exercicio\exe10\exe10\bin\Debug\net6.0\exe10.runtimeconfig.json
+C:\Users\Paulo\Desktop\Lista12exe\10°exercicio\exe10\exe10\bin\Debug\net6.0\exe10.dll
+C:\Users\Paulo\Desktop\Lista12exe\10°exercicio\exe10\exe10\bin\Debug\net6.0\exe10.pdb
+C:\Users\Paulo\Desktop\Lista12exe\10°exercicio\exe10\exe10\obj\Debug\net6.0\exe10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Desktop\Lista12exe\10°exercicio\exe10\exe10\obj\Debug\net6.0\exe10.AssemblyInfoInputs.cache
+C:\Users\Paulo\Desktop\Lista12exe\10°exercicio\exe10\exe10\obj\Debug\net6.0\exe10.AssemblyInfo.cs
+C:\Users\Paulo\Desktop\Lista12exe\10°exercicio\exe10\exe10\obj\Debug\net6.0\exe10.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\Lista12exe\10°exercicio\exe10\exe10\obj\Debug\net6.0\exe10.dll
+C:\Users\Paulo\Desktop\Lista12exe\10°exercicio\exe10\exe10\obj\Debug\net6.0\refint\exe10.dll
+C:\Users\Paulo\Desktop\Lista12exe\10°exercicio\exe10\exe10\obj\Debug\net6.0\exe10.pdb
+C:\Users\Paulo\Desktop\Lista12exe\10°exercicio\exe10\exe10\obj\Debug\net6.0\exe10.genruntimeconfig.cache
+C:\Users\Paulo\Desktop\Lista12exe\10°exercicio\exe10\exe10\obj\Debug\net6.0\ref\exe10.dll
